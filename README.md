@@ -1,13 +1,33 @@
-- 👋 Hi, I’m @ahmedsat
-- :smile: My official name is : Ahmed Hassan Younes Hassan
-- 👀 I’m interested in programing specialty :computer: Back-End API with nodejs and express 
-- 🌱 I’m currently learning AES along with REST API 
-- ✨ I’m looking forward to be one of the most effective devoloper in this era
-- 📫 How to reach me  
-  - :email: ahmedsat303@gmail.com
-  - whats-app : +201159142527
+# Ahmed Sat
 
-<!---
-ahmedsat/ahmedsat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hi there, welcome to my github page.
+
+i am a junior backend developer.
+
+## my skills
+
+- javascript
+- nodejs
+- mongodb
+- git && github
+- linux
+- RESTful API
+- swagger
+
+## my projects
+
+<!-- back end projects examples -->
+1. Password Manager API (nodejs, mongodb, git, github)
+2. Chat App (nodejs, mongodb, git, github)
+3. Todo App (nodejs, mongodb, git, github)
+4. Weather App (nodejs, mongodb, git, github)
+5. News App (nodejs, mongodb, git, github)
+
+## my future plans
+
+i am planning to learn more about front end development,looking for a job in the field of front end development,to learn more about the technologies that i am learning,to go a further in my career.
+
+## my contact
+
+github: [github.com/ahmedsat](https://github.com/ahmedsat)
+email: [ahmedsat303](mailto:Ahmedsat303@gmail.com)
