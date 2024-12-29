@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and open-sourc
 ---
 
 ## 🚀 About Me
-- 🌟 **Backend Developer**: I specialize in creating robust and high-performance systems with Golang.
+- 🌟 **Backend Developer**: I specialize in creating robust and high-performance systems with Golang, Node-JS, and others.
 - 🎮 **Game Developer**: Building immersive 3D games like [Kahf al-Taif](https://github.com/ahmedsat/kahf-al-taif) using OpenGL and custom engines.
 - 🛠️ **Engine Creator**: Developing reusable libraries and engines for rendering, networking, physics, and more:
   - [Noor](https://github.com/ahmedsat/noor): A rendering engine.
